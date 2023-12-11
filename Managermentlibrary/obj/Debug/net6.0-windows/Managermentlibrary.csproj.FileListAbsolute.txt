@@ -28,7 +28,9 @@ D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managerme
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.csproj.AssemblyReference.cache
+D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.Admin.resources
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.Login.resources
+D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.Main.resources
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.Register.resources
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.csproj.GenerateResource.cache
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.GeneratedMSBuildEditorConfig.editorconfig
@@ -41,5 +43,3 @@ D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managerme
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.pdb
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.genruntimeconfig.cache
 D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\ref\Managermentlibrary.dll
-D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.Main.resources
-D:\auto save file word\source code (program)\C#\ASM\Managermentlibrary\Managermentlibrary\obj\Debug\net6.0-windows\Managermentlibrary.Admin.resources

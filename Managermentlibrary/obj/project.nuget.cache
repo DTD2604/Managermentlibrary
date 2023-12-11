@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zPaR43RBVW+R86tJO8iYSiFG2CqsLk6MfQeADNmKnL4ZB9PrgrmGlNQVRuinUxJRQfjk9q/kCWvxb3DN37ZWUg==",
+  "dgSpecHash": "RsQ9BKZ70+xcWvNrAY7lRCag+BG7xUHp0CP9BvnDbupsqrF0m+NRGo+rCCw2K7D3eGJX1ncVrcYluFPfzuo/hA==",
   "success": true,
   "projectFilePath": "D:\\auto save file word\\source code (program)\\C#\\ASM\\Managermentlibrary\\Managermentlibrary\\Managermentlibrary.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,8 @@
     "C:\\Users\\DOWIN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
-    "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
-    "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
+    "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.2\\microsoft.data.sqlclient.5.1.2.nupkg.sha512",
+    "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.identity.client\\4.47.2\\microsoft.identity.client.4.47.2.nupkg.sha512",
     "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
     "C:\\Users\\DOWIN\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.24.0\\microsoft.identitymodel.abstractions.6.24.0.nupkg.sha512",
